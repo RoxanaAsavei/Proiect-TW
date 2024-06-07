@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "Roxana",
+    "lastName": "Asavei",
+    "user_email": "dd@gmail.com",
+    "message": "multiumesc",
+    "option": "yes"
+  },
+  {
+    "firstName": "Elena",
+    "lastName": "Marinescu",
+    "user_email": "cd@gmail.com",
+    "message": "salutare, sper ca merge ca deja nu mai pot cu ajaxul asta",
+    "option": "no"
+  },
+  {
+    "firstName": "Matei",
+    "lastName": "Andrei",
+    "user_email": "ceva@gmail.com",
+    "message": "sper sa fie okk",
+    "option": "yes"
+  }
+]
